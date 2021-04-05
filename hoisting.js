@@ -11,7 +11,7 @@ function callMe() {
 
 function crazy() {
   // fix the code in here:
-   return thisIsCrazy();
+   return thisIsCrazy;
 
   var thisIsCrazy = function (){
     console.log("hey!!!");
